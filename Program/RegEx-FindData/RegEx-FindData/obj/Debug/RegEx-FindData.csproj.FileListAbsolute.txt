@@ -1,0 +1,13 @@
+E:\_Document\_Code\C#\RegEx-FindData\RegEx-FindData\bin\Debug\RegEx-FindData.exe.config
+E:\_Document\_Code\C#\RegEx-FindData\RegEx-FindData\bin\Debug\RegEx-FindData.exe
+E:\_Document\_Code\C#\RegEx-FindData\RegEx-FindData\bin\Debug\RegEx-FindData.pdb
+E:\_Document\_Code\C#\RegEx-FindData\RegEx-FindData\obj\Debug\RegEx_FindData.frmMain.resources
+E:\_Document\_Code\C#\RegEx-FindData\RegEx-FindData\obj\Debug\RegEx_FindData.Properties.Resources.resources
+E:\_Document\_Code\C#\RegEx-FindData\RegEx-FindData\obj\Debug\RegEx-FindData.csproj.GenerateResource.Cache
+E:\_Document\_Code\C#\RegEx-FindData\RegEx-FindData\obj\Debug\RegEx-FindData.exe
+E:\_Document\_Code\C#\RegEx-FindData\RegEx-FindData\obj\Debug\RegEx-FindData.pdb
+E:\_Document\_Code\C#\RegEx-FindData\RegEx-FindData\obj\Debug\RegEx_FindData.frmFind.resources
+E:\_Document\_Code\C#\RegEx-FindData\RegEx-FindData\bin\Debug\itextsharp.dll
+E:\_Document\_Code\C#\RegEx-FindData\RegEx-FindData\bin\Debug\itextsharp.xml
+E:\_Document\_Code\C#\RegEx-FindData\RegEx-FindData\bin\Debug\EPPlus.dll
+E:\_Document\_Code\C#\RegEx-FindData\RegEx-FindData\bin\Debug\EPPlus.xml

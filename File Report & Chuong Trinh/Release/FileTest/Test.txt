@@ -1,0 +1,59 @@
+﻿HỌC VIỆN KỸ THUẬT QUÂN SỰ 
+Mail: mta.edu.vn ĐT: 04.375.531.99 
+ĐC: 236 Hoàng Quốc Việt - Bắc Từ Liêm - Hà Nội 
+ 
+ĐỀ TÀI SỐ 22: 
+Xây dựng chương trình soạn thảo, hoặc dạng add-in vào trong chương trình soạn thảo, cho phép tìm kiếm một số thông tin dạng đặc biệt (ví dụ tên tuổi, địa danh, số đt, vvv…) 
+ 
+Giảng viên: 
+            TS. Hà Chí Trung 
+             Mail: hct2009@yahoo.com              
+	     Mail: hct2009@mta.edu.vn 
+             ĐT: 0168.558.2102 
+             Số Dư: 50,350 USD 
+ 
+Học viên: 
+1.	Ngô Đình Phúc 
+            Mail: phund@seakbz.com 
+			Ngày Sinh: 18/08/1997
+            ĐT 0973642632 
+            ĐT: (+84) 1667234302 
+            ĐT: (+84) 1667234302 
+            ĐT: +44 7222 555 555 UK 
+            ĐT: (+86) 13862613382  
+            ĐT: (+61) 13862613382  
+            ĐT: (+91) 13862613382  
+            ĐT: (+81) 42691965 
+            ĐT: (+33) 660614614 
+            IP V4 :  192.168.30.1 
+            IP V6 :  FE80:0000:0000:0000:0202:B3FF:FE1E:8329 
+            MasterCard: 5555555555554444 
+            Visa: 4111111111111111 
+            Số Dư: 50,350 EUR  
+2.	 Lê Anh Đức 
+            Mail: anhduc1997@gmail.com 
+            ĐT: 0989.166.203 
+                    0905.123.80789 
+            NS: 27/08/1997 
+            Số Dư: 50,350,200 VND 
+
+
+
+ Vidu Về file: 
+ 
+Nén : nen.7z 
+Nhạc : LacTroi.mp3 
+Video : 1.mp4 
+Ảnh :  image.jpeg 
+văn bản: document.docx 
+văn bản: class.cs 
+ 
+ 
+Ví dụ một số trang web: 
+https://www.restrictd.com/~myhome/ 
+http://ebank.vnexpress.net 
+<http://vnexpress.net> 
+<http://ngoisao.net> 
+<http://gamethu.vnexpress.net> 
+http://vieclam.vnexpress.net 
+ 
